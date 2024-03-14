@@ -13,12 +13,12 @@
 			<th>Accurate Description</th>
 		</tr>
 		<tr>
-			<td><img src="/resources/chapatiwithkebab.png" alt="Chapati"></td>
+			<td><img src="/resources/chapatiwithkebab.webp" alt="Chapati"></td>
 			<td style="font-weight: 500;">Chapati</td>
 			<td>give an Description pls</td>
 		</tr>
 		<tr>
-			<td><img src="/resources/khajoor.jpg" alt="OofBoiGaming"></td>
+			<td><img src="/resources/khajoor.webp" alt="OofBoiGaming"></td>
 			<td style="font-weight: 500;">OofBoiGaming</td>
 			<td>i need a Description guys</td>
 		</tr>
@@ -28,17 +28,17 @@
 			<td>please help i need a Description</td>
 		</tr>
 		<tr>
-			<td><img src="/resources/sandwich.jpeg" alt="Abd"></td>
+			<td><img src="/resources/sandwich.webp" alt="Abd"></td>
 			<td style="font-weight: 500;">Abd</td>
 			<td>man idk just give a Description please man</td>
 		</tr>
 		<tr>
-			<td><img src="/resources/pancake.png" alt="Mirmi"></td>
+			<td><img src="/resources/pancake.webp" alt="Mirmi"></td>
 			<td style="font-weight: 500;">Minefraftmirmi</td>
 			<td>PLEASE DUDE JUST GIVE A Description</td>
 		</tr>
 		<tr>
-			<td><img src="/resources/cherry.png" alt="Musab"></td>
+			<td><img src="/resources/cherry.webp" alt="Musab"></td>
 			<td style="font-weight: 500;">Musab</td>
 			<td>I AM BEGGING YOU PLEASE MAN GIVE A Description</td>
 		</tr>
@@ -57,7 +57,7 @@
 		width: 100vw;
 		height: 100vh;
 		filter: brightness(30%);
-		background-image: url('/resources/rhombusgrid.png');
+		background-image: url('/resources/rhombusgrid.webp');
 		background-size: cover;
 	}
 	.maintext {
